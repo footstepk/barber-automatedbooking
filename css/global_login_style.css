@@ -1,0 +1,129 @@
+@charset "ISO-8859-1";
+
+/* for html,body */
+html, body {
+	background-color: blanchedalmond;
+}
+
+/* for class heading header */
+.heading_header {
+	
+}
+/* for h1 */
+h1 {
+    border: 4px solid black;
+    outline-style: solid;
+    outline-color: red;
+    font-family: "Lobster", Sans-serif;
+	margin-left: 10px;
+	text-align: left;
+	
+}
+
+/* for paragraph */
+.paragraph {
+   
+}
+
+/* for id p1 */
+#p1 {
+	
+}
+
+/* for class heading2 */
+.heading2 {
+	
+}
+
+/* for id h2 */
+#h2 {
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: yellow;
+    font-family: "Lobster", Sans-serif;
+	margin-left: 10px;
+	text-align: left;
+	
+}
+
+/* for form */
+form {
+	
+}
+
+/* for form_container */
+.form_container {
+	
+}
+
+/* for fieldset */
+fieldset {
+	
+}
+
+/* for legend */
+legend {
+	
+}
+
+/* for class login_container */
+.login_container {
+	
+}
+
+/* for label */
+label {
+	
+}
+
+/* for input field username and password */
+input {
+	
+}
+
+/* for for_forgot_btn */
+#for_forgot_btn {
+    background-color: cyan;
+}
+/* for submit_login_btn */
+#submit_login_btn {
+	background-color: aquamarine;
+    
+}
+
+/* for id reset_btn */
+#reset_btn {
+	background-color: tomato;
+    
+}
+
+/* for class forgot_link */
+.forgot_link {
+	
+}
+
+/* for id forgot_btn */
+#forgot_btn {
+	background-color: plum;
+    
+}
+/* for class paragraph2 */
+.paragraph2 {
+	
+}
+
+/* for id p2 */
+#p2 {
+	
+}
+
+/* for id go_back_btn */
+#go_back_btn {
+    background-color: #FF4500;
+    color: white;
+    padding: 8px 8px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;	
+}

@@ -1,0 +1,238 @@
+@charset "ISO-8859-1";
+
+html, body {
+	   background-color: lightgoldenrodyellow;
+	   	font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+	   }
+
+/* for class customer_photo */
+.customer_photo {
+
+}
+
+/* for img */
+img {
+    max-width: 100%;
+
+}
+
+/* for class heading_header */
+.heading_header {
+	
+}
+
+/* for h1 */
+h1 {
+	border: 5px solid black;
+    outline-style: solid;
+    outline-color: limegreen;
+    font-family: "Lobster", Sans-serif;
+	margin-left: 10px;
+	text-align: left;
+
+}
+/* for h2.. hn */
+h2, h3, h4, h5 {
+	border: 2px solid black;
+    outline-style: solid;
+    outline-color: limegreen;
+    font-family: "Lobster", Sans-serif;
+	margin-left: 10px;
+	text-align: left;
+    
+}
+
+/* for class paragraph */
+.paragraph {
+	
+}
+
+/* for id p1 */
+#p1, #p4, #p5 {
+	color: black;
+	margin-left: 10px;
+	text-align: left;
+}
+
+/* for class paragraph2 */
+.paragraph2 {
+	
+}
+
+/* for id p2 */
+#p2 {
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: pink;
+    font-family: "Lobster", Sans-serif;
+	margin-left: 10px;
+	text-align: left;
+    
+}
+
+/* for form */
+form {
+	
+}
+
+/* for fieldset */
+fieldset {
+	
+}
+
+/* for legend */
+legend {
+	
+}
+
+/* for label */
+label {
+	
+}
+
+/* for input */
+input {
+	
+}
+
+/* for dl */
+dl {
+	
+}
+
+/* for dt */
+dt {
+	
+}
+
+/* for textarea */
+textarea {
+
+}
+
+/* for class customer_login_form_container */
+.customer_login_form_container {
+
+}
+
+/* for class customer_register_form_container */
+.customer_register_form_container {
+
+}
+
+/* for class view_booking_form_container */
+.view_booking_form_container {
+
+}
+
+/* for class make_booking_form_container */
+.make_booking_form_container {
+
+}
+
+/* for make_complaint_form_container */
+.make_complaint_form_container {
+
+}
+
+/* for class login_container */
+.login_container {
+
+}
+
+/* for class error_success */
+.error_success {
+
+}
+
+/* for class forgot_link */
+.forgot_link {
+
+}
+
+/* for id spam_forgot_btn */
+#spam_forgot_btn {
+
+}
+
+/* for id submit_login_btn */
+#submit_login_btn {
+
+}
+
+/* set for create_customer_btn */
+#create_customer_btn {
+	background-color: chartreuse;
+}
+
+/* Set for make_booking_btn */
+#make_booking_btn {
+    background-color: #8A2BE2;
+    color: white;
+    padding: 8px 8px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+}
+
+/* Set for view_booking_btn */
+#view_booking_btn {
+    background-color: #8A2BE2;
+    color: white;
+    padding: 8px 8px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+}
+
+/* Set for make_complaint_btn */
+#make_complaint_btn {
+    background-color: #8A2BE2;
+    color: white;
+    padding: 8px 8px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+}
+
+/* Add a hover effect for all buttons */
+#make_booking_btn:hover, #view_booking_btn:hover, #make_complaint_btn:hover, #submit_login_btn:hover, #create_customer_btn:hover {
+   opacity: 0.8;
+}
+
+/* for class paragraph3 */
+.paragraph3 {
+	
+}
+
+/* for id p3 */
+#p3 {
+	
+}
+
+/* for id reset_btn */
+#reset_btn {
+    background-color: #66CDAA;
+    color: white;
+    padding: 8px 8px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+    
+}
+
+/* for go_back_btn */
+#go_back_btn {
+	background-color: #DB7093;
+    color: white;
+    padding: 8px 8px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+}

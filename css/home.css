@@ -1,0 +1,137 @@
+@charset "ISO-8859-1";
+
+
+/* for html, body */
+html, body {
+    background-color: lavender;
+
+}
+
+/* for class home_photo */
+.home_photo {
+	
+}
+
+img {
+	max-width: 100%;
+    
+}
+
+.heading_header {
+	
+}
+
+h1 {
+    border: 3px solid black;
+    outline-style: solid;
+    outline-color: deeppink;
+    font-family: "Lobster", Sans-serif;
+	margin-left: 10px;
+	text-align: left;
+}
+
+/* for class paragraph */
+.paragraph {
+	
+}
+
+/* for id p1, p2 */
+#p1, #p2 {
+    font-family: sans-serif;
+    
+}
+
+/* for class heading2 */
+.heading2 {
+	
+}
+
+/* for h2 */
+h3 {
+	
+}
+
+/* for class paragraph2 */
+.paragraph2 {
+    font-family: san-serif;
+
+}
+
+
+/* for class login_user_container */
+.login_user_container {
+	
+}
+
+/* for dl */
+dl {
+	
+}
+
+/* for dt */
+dt {
+	
+}
+/* for id administrator_login_btn */
+#administrator_login_btn {
+	background-color: plum;
+    color: lightred;
+    padding: 4px 4px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    
+}
+/* for dd */
+dd {
+	
+}
+
+/* for id new_barber_btn */
+#new_barber_btn {
+    background-color: coral;
+    color: lightred;
+    padding: 4px 4px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    
+}
+
+/* for id new_customer_btn */
+#new_customer_btn {
+    background-color: coral;
+    color: lightred;
+    padding: 4px 4px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    
+}
+
+/* for id barber_login_btn */
+#barber_login_btn {
+    background-color: plum;
+    color: lightred;
+    padding: 4px 4px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+	
+}
+
+/* for id customer_login_btn */
+#customer_login_btn {
+    background-color: plum;
+    color: lightred;
+    padding: 4px 4px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    
+}

@@ -1,0 +1,209 @@
+@charset "ISO-8859-1";
+
+html, body {
+    background-color: lightpink;
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+	   }
+
+/* for class barber_photo */
+.barber_photo {
+
+}
+
+/* for imd */
+img {
+
+}
+
+/* for class heading_header */
+.heading_header {
+	
+}
+/* for h1 */
+h1{
+    border: 4px solid black;
+    outline-style: solid;
+    outline-color: red;
+    font-family: "Lobster", Sans-serif;
+	margin-left: 10px;
+	text-align: left;
+    
+}
+/* for h2.. hn */
+h2, h3, h4, h5 {
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color: red;
+    font-family: "Lobster", Sans-serif;
+	margin-left: 10px;
+	text-align: left;
+}
+
+/* for class error_success */
+.error_success {
+
+}
+
+/* for class paragraph */
+.paragraph {
+	
+}
+
+/* for id p1... pn */
+#p1, #p3, #p4, #p5 {
+	font-family: sans-serif;
+    color: black;
+	margin-left: 10px;
+	text-align: left;
+}
+
+/* for class paragraph2 */
+.paragraph2 {
+	color: black;
+}
+
+/* for id p2 */
+#p2 {
+    
+}
+
+/* for class register_form_container */
+.register_form_container {
+    
+}
+
+/* for confirm_booking_form_container */
+.confirm_booking_form_container {
+
+}
+
+/* for view_booking_form_container */
+.view_booking_form_container {
+
+}
+
+/* for set_form_container */
+.set_form_container {
+
+}
+
+/* for class forgot_link */
+.forgot_link {
+
+}
+
+/* for id spam_forgot_btn */
+#spam_forgot_btn {
+
+}
+
+/* for id forgot_btn */
+#forgot_btn {
+
+}
+
+/* for form */
+form {
+	
+}
+
+/* for fieldset */
+fieldset {
+	
+}
+
+/* for legend */
+legend {
+	
+}
+
+/* for label */
+label {
+	
+}
+
+/* for input */
+input {
+	
+}
+
+/* for dl */
+dl {
+	
+}
+
+/* for dt */
+dt {
+	
+}
+
+/* for id submit_login_btn */
+#submit_login_btn {
+    background-color: aquamarine;
+}
+
+/* set for create_barber_btn */
+#create_barber_btn {
+    background-color: coral;
+    padding: 8px 8px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+}
+
+/* Set for set_btn */
+#set_btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 8px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+}
+
+/* Set for view_booking_btn */
+#view_booking_btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 8px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+}
+
+/* Set for confirm_booking_btn */
+#confirm_booking_btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 8px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+}
+
+/* Add a hover effect for all buttons */
+#set_btn:hover, #view_booking_btn:hover, #confirm_booking_btn:hover {
+   opacity: 0.8;
+}
+
+/* for class paragraph3 */
+.paragraph3 {
+	
+}
+
+
+/* for reset_btn */
+#reset_btn {
+    background-color: yellow;
+
+}
+/* for go_back_btn */
+#go_back_btn {
+	background-color: mediumpurple;
+
+}
